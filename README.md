@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @nick-diri
-- 👀 I’m interested in aerospace engineering
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on any problems I may encounter
 - 📫 How to reach me- nickdirienzo1@gmail.com
 
 <!---
